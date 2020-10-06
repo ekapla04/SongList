@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+song {
+    display: block;
+    border-bottom: 1px solid #800080; 
+    padding : 8px 0;
+}
+title {
+    color: #ffa500;
+    font-size: large;
+    display : block;
+}
+title:before {content:"Title: "; }
+artist {
+    display : block;
+}
+artist:before {content:"Artist: "; }
+genre {
+    display : block;
+}
+genre:before {content:"Genre: "; }
+release_date {
+    display : block; 
+}
+release_date:before {content:"Release Year: "; }
+display : block; 
+
+

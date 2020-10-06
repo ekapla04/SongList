@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
+<songs>
+    <song>
+        <title>In The Kingdom</title>
+        <artist>
+            <name>Mazzy Star</name>
+        </artist>
+        <genre>Alt. Rock</genre>
+        <release_date>2013</release_date>
+    </song>
+
+    <song>
+        <title>Sense</title>
+        <artist>
+            <name>King Gizzard and The Lizard Wizard</name>
+        </artist>
+        <genre>Eclectic Rock</genre>
+        <release_date>2015</release_date>
+    </song>
+
+    <song>
+        <title>Ophelia</title>
+        <artist>
+            <name>The Band</name>
+        </artist>
+        <genre>Rock</genre>
+        <release_date>1975</release_date>
+    </song>
+
+    <song>
+        <title>Friday Morning</title>
+        <artist>
+            <name>Khruangbin</name>
+        </artist>
+        <genre>Funk</genre>
+        <release_date>2018</release_date>
+    </song>
+
+    <song>
+        <title>Another</title>
+        <artist>
+            <name>Ruru</name>
+        </artist>
+        <genre>Funk</genre>
+        <release_date>2018</release_date>
+    </song>
+
+    <song>
+        <title>Lost my Head there</title>
+        <artist>
+            <name>Kurt Vile</name>
+        </artist>
+        <genre>Rock</genre>
+        <release_date>2015</release_date>
+    </song>
+
+    <song>
+        <title>Unknown Legend</title>
+        <artist>
+            <name>Neil Young</name>
+        </artist>
+        <genre>Rock</genre>
+        <release_date>1992</release_date>
+    </song>
+
+    <song>
+        <title>Mixer</title>
+        <artist>
+            <name>Nap Eyes</name>
+        </artist>
+        <genre>Alt. Rock</genre>
+        <release_date>2016</release_date>
+    </song>
+
+    <song>
+        <title>Ripple</title>
+        <artist>
+            <name>Grateful Dead</name>
+        </artist>
+        <genre>Rock</genre>
+        <release_date>1970</release_date>
+    </song>
+
+    <song>
+        <title>Lilly</title>
+        <artist>
+            <name>Toro y Moi</name>
+        </artist>
+        <genre>Funk</genre>
+        <release_date>2015</release_date>
+    </song>
+</songs>
